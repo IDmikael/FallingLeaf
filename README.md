@@ -22,13 +22,13 @@ Also game has 3 weather states: Evening, Cloudy (Wind) and Rain. These states ar
 -  Also for better sound on Android devices was used "Android Native Audio" plugin: https://assetstore.unity.com/packages/tools/audio/android-native-audio-35295
 
 ## Screenshots
-- Main Screen
+- ### Main Screen
 ![Main Screen](https://github.com/IDmikael/FallingLeaf/blob/master/Screenshots/photo5384536358409841879.jpg "Main Screen")
-- Rain weather state
+- ### Rain weather state
 ![Rain weather state](https://github.com/IDmikael/FallingLeaf/blob/master/Screenshots/1.jpg)
-- Wind weather state
+- ### Wind weather state
 ![Wind weather state](https://github.com/IDmikael/FallingLeaf/blob/master/Screenshots/photo5384352538104540234.jpg)
-- Evening weather state
+- ### Evening weather state
 ![Evening weather state](https://github.com/IDmikael/FallingLeaf/blob/master/Screenshots/photo5384536358409841878.jpg)
 
 ### You can find working apk in Build directory 
